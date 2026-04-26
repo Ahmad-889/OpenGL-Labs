@@ -12,8 +12,8 @@ This repository contains my OpenGL lab work.
 - Polygon
 - Diamond Pattern
 
-## Lab 03 - 3D Shapes
-- 3D Circle, Triangle, Square
+## Lab 03 - Clipping Windows
+- Draw Points, Check Points, Points in Square
 
 ## Lab 04 - Animations
 - Moving Car
